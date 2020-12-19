@@ -1,7 +1,7 @@
-## Hi there, I'm Sebastian - aka Mo0nrak3r
+# Welcome to my GitHub 
 
 ## B.Eng. student of Electrical Engineering
-# 📍 Bochum, Ruhr Area, Germany
+### 📍 Bochum, Ruhr Area, Germany
 
 ### Interested in 
 - 🛩️ Aviation and Avionics
