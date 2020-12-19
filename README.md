@@ -6,7 +6,7 @@
 ### Interested in 
 - 🛩️ Aviation and Avionics
 - 📟 Embedded systems
-- 🎧 Eletronic music
+- 🎧 Electronic music
 - 🕹️ Gaming 
 
 <br />
